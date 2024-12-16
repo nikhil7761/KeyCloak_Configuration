@@ -1,0 +1,21 @@
+Add LDAP Provider
+ui display name-ldap
+vendor- Active Directory
+
+Connection URL-Idap://NIKSpune.com    for windows
+              -Idap://172.30.1.400:389
+
+
+Bind type- simple
+Bind DN-   CN=keycloak,OU-puneifinix,DC=NIKSPUNE,DC=COM
+PASSWORD-  
+
+
+LDAP searching and updating
+
+Edit mode- unsynced
+users DN- DC=NIKSPUNE
+
+
+
+   
