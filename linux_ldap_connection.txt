@@ -15,6 +15,13 @@ LDAP searching and updating
 
 Edit mode- unsynced
 users DN- DC=NIKSPUNE
+cn
+
+
+
+Search scope   subtree
+
+
 
 
 
